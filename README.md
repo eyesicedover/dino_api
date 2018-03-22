@@ -42,6 +42,7 @@ _Please email me directly at eyesicedover@gmail.com_
 * Jasmine
 * Karma
 * Lint
+* Dino Ipsum API (http://dinoipsum.herokuapp.com/#res)
 
 ### License
 
